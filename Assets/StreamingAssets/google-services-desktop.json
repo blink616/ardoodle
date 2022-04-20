@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "770222374056",
+    "project_id": "sharear-e9ec0",
+    "storage_bucket": "sharear-e9ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770222374056:android:83cc0c4d26f4963204d69d",
+        "android_client_info": {
+          "package_name": "com.Company.Doodler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770222374056-s9g9ir23poluite8gi7iguupjrfb9m8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Company.Doodler",
+            "certificate_hash": "72db93fed8e053c040b42418aaec8e8c70ec003a"
+          }
+        },
+        {
+          "client_id": "770222374056-9vv51arrj229395ttajqu8vo3f3v493t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANHWWf--rMdIJGFyyrv6QdGnHoSsG9uu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770222374056-9vv51arrj229395ttajqu8vo3f3v493t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
